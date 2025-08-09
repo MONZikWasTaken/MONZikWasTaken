@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=MONZik&animation=fadeIn&type=wave&color=gradient&height=100"/>
 </p>
 
-<h1 align="center">I'm MONZik/h1>
 <p align="center"><i>A bit (bad) coder.</i></p>
 
 <p align="center">
