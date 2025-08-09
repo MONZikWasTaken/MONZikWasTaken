@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -6,21 +6,31 @@ on:
   workflow_dispatch:     # Возможность запустить вручную
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
+      # Клонируем репозиторий
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+
+      # Генерация змейки
+      - name: Generate Snake files
+        uses: Platane/snk@v3
         with:
           github_user_name: MONZikWasTaken
-          outputs: dist/github-contribution-grid-snake.svg
-          
-      - uses: actions/upload-artifact@v4
+          outputs: dist/snake.svg
+
+      # Загружаем артефакт (необязательно, просто для проверки)
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: snake
-          path: dist/github-contribution-grid-snake.svg
+          path: dist/snake.svg
 
+      # Публикуем в ветку output
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
