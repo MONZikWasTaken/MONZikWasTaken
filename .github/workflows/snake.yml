@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # каждый день в полночь
-  workflow_dispatch:     # запуск вручную
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -30,6 +30,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          force: true
+          keep_history: false   # <-- принудительный пуш
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
