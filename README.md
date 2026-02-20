@@ -8,7 +8,7 @@ Developer learning and building stuff.
 ## Tech Stack
 **Frontend:** TypeScript, React, Next.js, Tailwind CSS  
 **Backend:** Go, Rust, C#, Java, Python, Node.js, SQL  
-**AI:** Integrating LLMs since 2021 (GPT-2 API → Claude 4.5 Opus Thinking)  
+**AI:** Integrating LLMs since 2021 (GPT-2 API → Claude 4.6 Opus Thinking)  
 **Tools:** Git, Docker, Swagger, Linux, Windows
 
 ## Stats
