@@ -1,6 +1,7 @@
 # MONZik
 
 Developer learning and building stuff.
+
 Currently studying to become a Full Stack Java Developer.
 
 ## Links
