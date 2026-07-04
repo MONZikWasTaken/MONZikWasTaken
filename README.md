@@ -20,6 +20,9 @@ Currently studying to become a Full Stack Java Developer.
 **Tools:** Git, Docker, Swagger, Linux, Windows
 
 ## Stats
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MONZikWasTaken&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=MONZikWasTaken&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
