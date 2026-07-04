@@ -4,6 +4,8 @@ Developer learning and building stuff.
 
 Currently studying to become a Full Stack Java Developer.
 
+[![Support me on Ko-fi](https://img.shields.io/badge/☕_Support_me_on_Ko--fi-F16061?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/monzikxd)
+
 ## Links
 [Website](https://wellcoded.eu/) • [Discord](https://discord.com/users/1355207621208178711/) • [Telegram](https://t.me/MONZikxD) • [Steam](https://steamcommunity.com/id/MONZik/)
 
