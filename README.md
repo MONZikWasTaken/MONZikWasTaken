@@ -15,7 +15,9 @@ Currently studying to become a Full Stack Java Developer.
 
 ## Tech Stack
 **Frontend:** TypeScript/JavaScript, React, Next.js, Tailwind CSS
+
 **Backend:** Go, Rust, C#, Java, Python, Node.js, SQL   
+
 **Tools:** Git, Docker, Swagger, Linux, Windows
 
 ## Stats
