@@ -19,9 +19,3 @@ Currently studying to become a Full Stack Java Developer.
 **Backend:** Go, Rust, C#, Java, Python, Node.js, SQL   
 
 **Tools:** Git, Docker, Swagger, Linux, Windows
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=MONZikWasTaken&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
